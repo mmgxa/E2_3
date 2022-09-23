@@ -40,8 +40,6 @@ tensorboard dev upload --logdir ./logs/train/runs \
 ```
 The uploaded logs can be viewed at this [URL](https://tensorboard.dev/experiment/xGxw7gSJRHacyaVjmMMUqQ/)
 
-![](./img/tensorboard_steps.png) 
-
 To upload data to Google Drive via DVC, run the following commands.
 
 ```bash
